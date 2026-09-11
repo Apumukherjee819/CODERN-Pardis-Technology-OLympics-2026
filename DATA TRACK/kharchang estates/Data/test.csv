@@ -1,0 +1,511 @@
+﻿lat,long,area,age,total_floors,floor_number,rooms,document_type,cooling_type,monthly_levy,has_master_bedroom,parking_type,neighbor_noise_level,distance_to_hospital_km,has_smart_home,water_pressure,exterior_style,fiber_internet,manager_present,window_type
+35.73607503,51.4581328,128,21,15,3,3,Private,Water Cooler,2048,1,Roofed,Low,7.5,0,Poor,Mixed,1,1,Double-glazed
+35.82879032,51.52070646,139,23,2,1,3,Foundation,Chiller,4865,1,Roofed,High,6.9,0,Normal,Classic,0,1,Double-glazed
+35.77955242,51.49577373,170,33,16,6,4,Private,nan,4250,1,Underground,Average,6.7,0,Normal,Mixed,0,1,Double-glazed
+35.79106763,51.45504683,328,23,10,,8,Private,Split,10824,1,Courtyard,High,6,0,Normal,Roman,1,1,Single-glazed
+35.61810784,51.48885917,157,21,18,8,1,Private,Chiller,4710,0,Roofed,Low,4.1,0,Normal,Modern,1,1,Single-glazed
+35.6455846,51.52092954,75,15,4,2,2,Private,Water Cooler,2700,0,Roofed,Average,8.6,0,Excellent,Classic,0,0,Single-glazed
+35.73262949,51.30750426,256,0,7,2,5,Private,Water Cooler,7168,1,Roofed,High,5.5,1,Normal,Mixed,0,1,Double-glazed
+35.71258245,51.40014959,114,19,12,7,3,,Split,1824,0,Underground,Low,11.7,0,Normal,Mixed,0,1,Single-glazed
+35.76677182,51.44451096,273,8,12,3,7,Power of Attorney,Chiller,9282,1,Underground,Low,3.3,0,Normal,Modern,0,1,Single-glazed
+35.82230764,51.45806851,356,9,16,,9,Private,Split,13528,0,Underground,High,8,0,Normal,Roman,1,1,Double-glazed
+35.66417277,51.42508156,136,28,8,6,3,,nan,4896,1,Doesn't Have,Average,8.5,0,Normal,Modern,1,1,Double-glazed
+35.82090056,51.52978718,192,24,19,,5,Private,Water Cooler,4608,0,Underground,Low,10.8,0,Normal,Mixed,0,1,Double-glazed
+35.68235937,51.47765229,112,16,3,2,3,Foundation,Chiller,3696,0,Underground,High,5.8,0,Poor,Mixed,1,0,Double-glazed
+35.70926654,51.45890683,80,5,4,3,2,Private,Chiller,1200,0,Roofed,Average,2.4,0,Excellent,Mixed,1,0,Single-glazed
+35.67043168,51.41634429,93,18,2,1,2,Private,Chiller,2511,0,Underground,Average,4.8,0,Normal,Classic,1,1,Double-glazed
+35.76346359,51.4361576,151,20,4,4,4,Cooperative,Split,5436,1,Underground,Average,1.6,0,Normal,Roman,0,0,Double-glazed
+35.7004141,51.41172974,93,26,6,6,2,Foundation,nan,2511,0,Doesn't Have,High,7,0,Normal,Roman,1,1,Double-glazed
+35.68048354,51.2554827,177,24,3,2,4,Private,Water Cooler,5664,1,Roofed,Average,12,0,Normal,Mixed,1,1,Double-glazed
+35.70970494,51.37940973,130,28,8,8,3,Private,nan,4290,1,Underground,High,5.8,0,Normal,Mixed,0,1,Triple-glazed
+35.77434052,51.51275111,141,35,15,15,4,Private,nan,3102,1,Courtyard,Average,2.3,0,Normal,Mixed,1,1,Double-glazed
+35.63531254,51.4169875,110,25,14,2,3,Promissory Contract,Water Cooler,3410,0,Courtyard,High,7.8,0,Normal,Mixed,1,1,Double-glazed
+35.65579551,51.4039227,136,28,12,1,3,Cooperative,nan,4080,1,Roofed,High,10.3,0,Normal,Mixed,1,1,Double-glazed
+35.69772009,51.52362328,148,14,10,8,4,Private,Split,3552,1,Roofed,Low,10.4,0,Poor,Modern,0,1,Double-glazed
+35.6517243,51.54344188,136,1,9,4,3,Private,Split,2720,0,Underground,Low,7.8,1,Normal,Mixed,1,1,Double-glazed
+35.76137081,51.36112273,158,13,2,2,4,Private,Water Cooler,4740,1,Roofed,Low,1.4,0,Normal,Roman,1,0,Double-glazed
+35.66065754,51.52359356,154,7,18,1,4,Endowment,Chiller,4774,1,Underground,Average,9.1,0,Poor,Modern,1,1,Single-glazed
+35.63585321,51.53890169,410,1,17,6,10,Endowment,Chiller,6560,0,Courtyard,Average,7.7,0,Normal,Mixed,1,1,Triple-glazed
+35.71839889,51.31803232,285,9,18,11,7,Private,Split,8835,1,Courtyard,Average,3,0,Normal,Roman,1,1,Double-glazed
+35.733223,51.51956452,228,24,8,3,6,Private,Chiller,4332,1,Doesn't Have,Low,4,0,Poor,Mixed,0,1,Double-glazed
+35.80347428,51.36714457,323,2,8,5,8,Private,Split,12274,1,Roofed,Average,7.2,1,Normal,Modern,1,1,Double-glazed
+35.61368975,51.35590831,66,25,16,4,2,Endowment,Chiller,,0,Roofed,Average,3.8,0,Normal,Modern,1,1,Triple-glazed
+35.7765374,51.47558523,105,36,19,7,3,Private,nan,1890,0,Underground,Low,1,0,Normal,Classic,0,1,Double-glazed
+35.73573942,51.38658612,148,37,12,11,4,Foundation,nan,3552,1,Underground,Low,10,0,Normal,Classic,0,1,Single-glazed
+35.83528098,51.44936859,266,15,8,6,4,Endowment,Chiller,4522,1,Roofed,Low,1.7,0,Excellent,Modern,1,1,Single-glazed
+35.7239999,51.5003864,348,2,5,3,1,Private,Split,10092,0,Underground,Average,1,0,Normal,Classic,1,0,Double-glazed
+35.7954127,51.38481183,153,9,5,1,4,Private,Split,3672,1,Roofed,Low,8.4,0,Excellent,Roman,1,0,Double-glazed
+35.70058753,51.33141531,114,39,15,12,1,Private,nan,3990,0,Underground,Average,5.2,0,Poor,Classic,0,1,Double-glazed
+35.75238645,51.4484407,151,7,9,5,4,Cooperative,Chiller,5889,1,Courtyard,High,0.9,0,Normal,Modern,0,1,Double-glazed
+35.7676315,51.43765093,143,7,17,8,4,Private,Split,4576,0,Roofed,High,2.9,0,Normal,Roman,1,1,Single-glazed
+35.72889525,51.29616081,142,40,2,1,4,Private,nan,2414,1,Courtyard,High,7.4,0,Normal,Roman,0,0,Double-glazed
+35.64127816,51.40882166,218,15,9,3,5,Private,Chiller,4360,1,Roofed,Average,1.3,0,Normal,Roman,1,1,Single-glazed
+35.71101883,51.41991641,143,6,17,13,4,Private,Split,2145,0,Roofed,High,5.7,0,Normal,Modern,0,1,Double-glazed
+35.74866987,51.37146211,153,15,7,1,4,Private,Chiller,4743,1,Roofed,Low,3.4,0,Normal,Classic,1,1,Double-glazed
+35.5488176,51.43728766,263,32,13,11,7,Private,nan,7627,1,Roofed,Average,2.8,0,Normal,Classic,0,1,Double-glazed
+35.59800235,51.43151117,289,46,3,2,7,Cooperative,nan,10404,0,Roofed,Low,8.6,0,Excellent,Classic,1,0,Double-glazed
+35.76907855,51.42755716,74,7,5,3,2,Private,Chiller,1998,0,Underground,High,8.1,0,Normal,Modern,1,1,Double-glazed
+35.72338517,51.41254039,198,26,17,16,5,Endowment,nan,5148,0,Courtyard,Low,5.4,0,Normal,Modern,1,1,Triple-glazed
+35.61474897,51.46711,138,29,5,1,3,Private,nan,4692,1,Underground,High,2.9,0,Normal,Classic,1,1,Double-glazed
+35.66500712,51.53813037,130,13,10,8,3,,Water Cooler,2990,0,Underground,Average,6.5,0,Excellent,Mixed,1,1,Double-glazed
+35.63991132,51.42735131,229,13,10,5,6,Private,Chiller,5496,1,Underground,Low,9.2,0,Normal,Classic,1,1,Double-glazed
+35.79820569,51.41148617,145,0,11,,4,Private,Split,3335,1,Underground,Low,1.9,0,Normal,Roman,1,1,Double-glazed
+35.69743685,51.39444153,170,0,6,3,1,Private,Split,3740,0,Roofed,High,2.4,0,Normal,Mixed,1,1,Double-glazed
+35.76766937,51.44698358,277,0,4,3,7,Private,Split,10249,1,Roofed,Low,5.6,0,Poor,Classic,0,1,Double-glazed
+35.81063513,51.47751236,161,30,2,1,1,Private,nan,5313,1,Courtyard,Average,9.4,0,Excellent,Modern,1,1,Double-glazed
+35.6414907,51.4841299,78,0,18,,2,Private,Water Cooler,2106,0,Roofed,Low,0.8,1,Normal,Classic,1,1,Double-glazed
+35.75492819,51.35113373,76,1,7,3,2,Private,Chiller,1596,0,Roofed,Low,8.6,0,Normal,Modern,0,1,Double-glazed
+35.73349505,51.4589039,229,27,4,4,6,Power of Attorney,nan,7786,1,Underground,Low,3,0,Excellent,Roman,0,1,Double-glazed
+35.76826036,51.42869731,340,31,4,1,8,Private,nan,12920,1,Roofed,Low,9.3,0,Normal,Classic,0,1,Single-glazed
+35.74922322,51.41486288,147,20,16,1,4,Private,Split,3381,1,Roofed,Low,9.4,0,Excellent,Classic,0,1,Double-glazed
+35.61609464,51.44871837,148,44,17,15,4,Private,nan,3996,0,Courtyard,Average,5.6,0,Excellent,Mixed,1,1,Double-glazed
+35.75044208,51.43264067,461,18,8,6,12,Private,Water Cooler,16596,1,Roofed,Average,3.9,0,Normal,Classic,1,1,Double-glazed
+35.81992887,51.52469595,289,46,18,8,7,,nan,5780,1,Courtyard,Average,11.1,0,Normal,Classic,1,1,Triple-glazed
+35.77261481,51.42830949,134,15,19,1,3,,Split,4824,0,Roofed,Average,10,0,Excellent,Mixed,0,1,Triple-glazed
+35.78993844,51.49360205,336,22,5,5,8,Private,Water Cooler,6720,1,Underground,Low,9.9,0,Excellent,Roman,0,1,Double-glazed
+35.73785403,51.35706439,107,23,14,6,3,Private,Split,2354,0,Roofed,High,5.9,0,Excellent,Mixed,1,1,Single-glazed
+35.70642296,51.31692479,240,20,10,4,6,Private,Water Cooler,8880,1,Roofed,Average,0.8,0,Normal,Roman,1,1,Double-glazed
+35.61782737,51.47949104,182,0,19,9,5,Private,Chiller,4914,1,Roofed,Average,6.4,1,Excellent,Classic,1,1,Double-glazed
+35.78877829,51.42403592,96,18,2,1,2,Private,Water Cooler,2688,0,Roofed,Low,9.8,0,Excellent,Mixed,0,1,Triple-glazed
+35.79673909,51.54877512,271,39,4,1,5,Private,nan,6504,1,Doesn't Have,High,10.6,0,Normal,Mixed,1,0,Triple-glazed
+35.79445582,51.33048738,104,2,2,2,3,Power of Attorney,Water Cooler,3328,0,Courtyard,Average,1.9,1,Excellent,Mixed,1,1,Double-glazed
+35.68681855,51.38568394,203,20,16,1,5,Private,Water Cooler,7105,1,Roofed,High,8.8,0,Poor,Classic,1,1,Single-glazed
+35.71839368,51.47568009,355,20,6,1,9,Endowment,Split,13845,1,Roofed,Low,11.9,0,Excellent,Roman,1,1,Double-glazed
+35.77691593,51.38601575,500,0,3,,1,Private,Water Cooler,14000,1,Courtyard,Low,2.2,0,Normal,Modern,1,1,Double-glazed
+35.74597924,51.44554149,171,16,6,4,4,Endowment,Water Cooler,4446,0,Roofed,Low,5.7,0,Poor,Modern,1,1,Double-glazed
+35.80083546,51.45482946,236,39,9,1,6,Promissory Contract,nan,7080,1,Roofed,Average,0.9,0,Normal,Classic,1,1,Double-glazed
+35.82118201,51.44665809,257,24,10,4,6,Private,Water Cooler,6425,1,Underground,Average,0.7,0,Normal,Roman,0,1,Single-glazed
+35.75651016,51.46451477,84,22,18,15,4,Endowment,Water Cooler,1428,0,Courtyard,Low,5.2,0,Normal,Roman,0,1,Single-glazed
+35.71897784,51.46944373,292,21,8,8,7,Promissory Contract,Water Cooler,7884,1,Roofed,Average,6.8,0,Normal,Classic,0,1,Single-glazed
+35.67378964,51.41287837,270,3,9,9,4,Private,Chiller,5400,0,Roofed,High,7.9,0,Excellent,Classic,0,1,Double-glazed
+35.74570791,51.380856,115,15,15,8,3,Private,Split,2185,0,Underground,Average,6.1,0,Normal,Classic,0,1,Double-glazed
+35.57493789,51.46955405,171,31,14,,5,Private,nan,3249,1,Underground,High,8.7,0,Normal,Classic,1,1,Double-glazed
+35.72123387,51.37033455,202,22,17,17,5,Power of Attorney,Chiller,6464,1,Underground,Low,8.4,0,Normal,Mixed,0,1,Double-glazed
+35.66556637,51.36293207,278,23,10,6,7,Cooperative,Water Cooler,6394,1,Roofed,Average,2.6,0,Excellent,Roman,0,1,Double-glazed
+35.76437579,51.42872862,186,35,9,,5,Foundation,nan,4836,1,Roofed,Average,9.8,0,Normal,Mixed,1,1,Double-glazed
+35.7061348,51.48875121,375,13,14,14,9,Promissory Contract,Water Cooler,13500,1,Courtyard,High,1,0,Normal,Roman,0,1,Triple-glazed
+35.702243,51.48650462,101,12,17,9,5,Private,Chiller,3131,0,Roofed,High,6.1,0,Normal,Classic,1,1,Double-glazed
+35.70562832,51.4599204,130,19,5,1,3,Power of Attorney,Split,4810,1,Courtyard,Low,11.8,0,Poor,Roman,1,0,Double-glazed
+35.69893888,51.43922415,148,16,11,8,4,Private,Split,5476,1,Roofed,High,11,0,Normal,Roman,0,1,Double-glazed
+35.61942119,51.50680795,222,0,18,,6,Private,Chiller,7326,1,Underground,Average,9.7,1,Normal,Roman,1,1,Double-glazed
+35.80975813,51.49045002,192,26,11,3,5,Private,nan,3648,1,Roofed,Low,8.9,0,Excellent,Modern,0,1,Double-glazed
+35.78232835,51.33501432,197,27,12,6,5,Private,nan,5122,1,Courtyard,Average,7.3,0,Poor,Mixed,0,1,Double-glazed
+35.6381357,51.39053779,165,32,16,7,1,Private,nan,2640,1,Courtyard,Low,0.6,0,Poor,Mixed,1,1,Triple-glazed
+35.61206608,51.36361266,135,43,9,8,3,Private,nan,3645,1,Underground,Average,7.9,0,Normal,Mixed,1,1,Double-glazed
+35.7746147,51.32988119,283,6,13,12,4,Cooperative,Water Cooler,4245,1,Roofed,Low,10.6,0,Normal,Classic,1,1,Double-glazed
+35.70173918,51.44361254,97,0,11,8,2,Private,Water Cooler,3104,0,Roofed,Average,2.4,1,Normal,Mixed,0,1,Double-glazed
+35.67213005,51.41833547,215,28,5,3,5,Private,nan,4085,1,Underground,Low,2.8,0,Normal,Mixed,0,0,Double-glazed
+35.71578686,51.3661492,229,37,13,,6,Private,nan,8473,1,Courtyard,High,11.2,0,Normal,Classic,1,1,Triple-glazed
+35.7517441,51.36493131,324,15,14,11,8,,Split,7128,1,Doesn't Have,Average,0.6,0,Poor,Mixed,1,1,Single-glazed
+35.79027954,51.44786219,167,12,19,2,4,Endowment,Water Cooler,5177,1,Underground,Low,9.3,0,Normal,Roman,1,1,Double-glazed
+35.770349,51.34042966,269,9,4,1,7,Private,Water Cooler,6456,1,Roofed,Low,10.8,0,Poor,Modern,1,1,Double-glazed
+35.74155479,51.4222849,136,12,17,16,3,Private,Chiller,3808,1,Underground,Low,1.4,0,Normal,Modern,1,1,Double-glazed
+35.73948676,51.40718391,298,44,16,2,7,Private,nan,7748,1,Underground,High,0.8,0,Normal,Mixed,1,1,Double-glazed
+35.66560575,51.46202618,103,10,4,2,3,Private,Split,1648,0,Courtyard,Average,2.4,0,Excellent,Mixed,0,0,Triple-glazed
+35.76141054,51.38369953,103,22,9,1,3,Power of Attorney,Water Cooler,3090,0,Doesn't Have,Average,6.2,0,Poor,Modern,0,1,Double-glazed
+35.80078467,51.45895861,56,39,13,8,1,Private,nan,,0,Doesn't Have,Low,8.9,0,Normal,Roman,1,1,Triple-glazed
+35.68437634,51.46524261,233,12,11,5,6,Private,Split,6291,1,Underground,Average,3.9,0,Excellent,Classic,1,1,Double-glazed
+35.69390121,51.4116844,127,18,7,4,3,Private,Water Cooler,4953,1,Roofed,Average,3.5,0,Normal,Mixed,0,1,Single-glazed
+35.75758326,51.38780424,164,21,5,5,4,Private,Water Cooler,5576,1,Underground,Average,1.2,0,Normal,Mixed,0,0,Double-glazed
+35.72177838,51.46372405,107,12,17,12,3,Private,Split,2247,0,Roofed,Average,8.3,0,Normal,Classic,1,1,Single-glazed
+35.85544744,51.37479428,98,9,5,2,2,Promissory Contract,Chiller,3038,0,Roofed,Average,5.4,0,Normal,Roman,0,0,Triple-glazed
+35.69814035,51.45308793,148,1,11,9,4,Private,Split,5624,0,Roofed,High,1.6,1,Normal,Mixed,1,1,Double-glazed
+35.76073674,51.46442343,72,15,12,3,5,Private,Split,1944,0,Underground,Average,10.7,0,Normal,Classic,0,1,Double-glazed
+35.79342768,51.48214567,271,34,14,14,7,Private,nan,6504,1,Underground,Low,7,0,Normal,Roman,1,1,Double-glazed
+35.75674619,51.40569664,186,40,5,2,5,Private,nan,3906,1,Underground,High,7.3,0,Normal,Roman,1,1,Double-glazed
+35.75143201,51.43279128,126,27,3,2,3,Private,nan,3024,1,Courtyard,High,3.2,0,Excellent,Classic,0,1,Single-glazed
+35.70546141,51.35490681,169,26,10,2,4,Endowment,nan,4394,1,Courtyard,Low,3.8,0,Normal,Mixed,1,1,Double-glazed
+35.66195365,51.44328362,83,14,4,4,2,Private,Chiller,2490,0,Underground,Average,3.8,0,Normal,Mixed,0,0,Double-glazed
+35.72876601,51.48533726,304,30,10,7,8,Foundation,nan,4864,1,Doesn't Have,Low,8.2,0,Excellent,Classic,1,1,Double-glazed
+35.77906161,51.42304022,187,35,3,2,5,Private,nan,4675,1,Underground,High,10.4,0,Normal,Mixed,0,1,Double-glazed
+35.66558457,51.43281376,202,19,9,2,5,Private,Split,6262,1,Roofed,Average,10.2,0,Poor,Mixed,1,1,Single-glazed
+35.71266966,51.37987428,230,17,17,2,6,Cooperative,Split,8970,1,Doesn't Have,Low,6.3,0,Normal,Modern,0,1,Single-glazed
+35.75003856,51.4684384,146,24,6,5,4,Private,Water Cooler,2628,1,Roofed,Low,10.1,0,Excellent,Classic,1,1,Single-glazed
+35.76286265,51.42150899,200,9,12,2,5,,Water Cooler,7200,1,Roofed,Average,8.1,0,Poor,Modern,0,1,Double-glazed
+35.74454072,51.41185679,230,25,2,1,6,,Split,4830,1,Underground,Average,6.6,0,Normal,Modern,0,0,Double-glazed
+35.80986019,51.50007131,69,42,18,16,2,Private,nan,,0,Roofed,Low,3.2,0,Poor,Classic,0,1,Double-glazed
+35.73413708,51.43260391,139,33,19,10,3,,nan,4170,1,Courtyard,High,8.4,0,Normal,Roman,0,1,Double-glazed
+35.72107543,51.4248919,201,0,2,2,4,Private,Split,5226,1,Roofed,Low,1.4,1,Normal,Mixed,0,0,Single-glazed
+35.79524628,51.41307713,196,29,4,2,5,Private,nan,3136,1,Roofed,Average,8,0,Normal,Modern,0,1,Double-glazed
+35.6907628,51.46121134,194,0,11,5,5,Private,Split,5238,1,Roofed,Low,9.8,1,Normal,Classic,0,1,Double-glazed
+35.74637867,51.37855983,190,38,4,4,5,Private,nan,3800,1,Underground,High,6.9,0,Excellent,Modern,0,1,Double-glazed
+35.66440305,51.48023862,327,0,3,3,8,Private,Split,9156,1,Roofed,High,5.9,0,Normal,Modern,0,1,Double-glazed
+35.78119217,51.54529528,241,28,15,,6,Private,nan,4820,1,Doesn't Have,Average,6.3,0,Normal,Classic,0,1,Single-glazed
+35.74461778,51.40307067,89,17,12,3,2,Private,Split,2581,0,Underground,High,8.9,0,Normal,Mixed,0,1,Double-glazed
+35.61526829,51.3986555,187,35,3,2,5,Private,nan,5049,0,Underground,High,4.9,0,Poor,Classic,0,0,Double-glazed
+35.79030031,51.46886688,95,16,4,1,2,Promissory Contract,Water Cooler,2185,0,Courtyard,High,9.1,0,Normal,Roman,1,0,Double-glazed
+35.73474693,51.43982728,99,24,6,5,2,Promissory Contract,Split,2079,0,Roofed,Low,7,0,Poor,Roman,1,1,Triple-glazed
+35.8128761,51.39123967,112,0,18,16,3,Private,Water Cooler,1792,0,Doesn't Have,Low,6.3,0,Normal,Mixed,1,1,Triple-glazed
+35.77003378,51.41188476,287,36,7,7,7,Power of Attorney,nan,10045,0,Doesn't Have,Average,2.7,0,Poor,Classic,0,1,Triple-glazed
+35.84152146,51.46532133,208,35,17,6,5,Private,nan,3328,1,Courtyard,Low,0.9,0,Normal,Mixed,1,1,Double-glazed
+35.76678222,51.59796378,123,17,15,1,3,Promissory Contract,Split,4059,1,Courtyard,High,3.5,0,Normal,Modern,0,1,Triple-glazed
+35.80582735,51.38408879,290,24,14,3,7,Private,Chiller,7250,1,Roofed,Low,9.9,0,Normal,Mixed,1,1,Double-glazed
+35.83858901,51.42514237,150,13,13,3,4,Private,Chiller,2400,1,Roofed,Low,9.6,0,Normal,Mixed,1,1,Double-glazed
+35.68817556,51.48585958,149,18,2,2,4,Private,Split,2831,0,Courtyard,Average,10.7,0,Poor,Roman,1,1,Double-glazed
+35.73271065,51.33511173,111,33,6,2,3,Private,nan,4329,0,Courtyard,Low,5.7,0,Normal,Classic,1,1,Double-glazed
+35.6766769,51.34251423,210,19,11,1,5,Private,Split,4410,1,Courtyard,Low,11.6,0,Normal,Modern,0,1,Double-glazed
+35.71598752,51.4027039,114,18,16,7,1,,Split,2964,0,Roofed,Average,9.5,0,Normal,Modern,0,1,Double-glazed
+35.7401575,51.43496451,247,17,14,3,6,Cooperative,Water Cooler,7410,0,Roofed,Average,5.5,0,Normal,Modern,0,1,Double-glazed
+35.7371643,51.36123297,112,35,2,2,4,Power of Attorney,nan,3920,0,Roofed,Average,3.9,0,Normal,Mixed,1,1,Double-glazed
+35.65151305,51.42081115,138,41,17,15,3,Endowment,nan,2760,1,Underground,High,11,0,Normal,Mixed,0,1,Double-glazed
+35.67626453,51.42334904,207,34,3,,5,Private,nan,7452,1,Courtyard,High,2.4,0,Poor,Mixed,1,0,Double-glazed
+35.7222492,51.42493191,386,22,6,2,10,Private,Chiller,11194,1,Roofed,Low,5.8,0,Excellent,Classic,0,1,Double-glazed
+35.78013593,51.47456562,371,45,15,6,9,Private,nan,8162,1,Roofed,Low,10.1,0,Excellent,Classic,1,1,Double-glazed
+35.75496852,51.43802145,62,12,2,1,2,Private,Split,,0,Roofed,Low,3.4,0,Normal,Modern,1,1,Double-glazed
+35.7704481,51.38210646,252,3,5,1,6,Private,Water Cooler,5544,0,Courtyard,Average,5.7,1,Normal,Modern,1,1,Double-glazed
+35.68538714,51.41498714,100,8,8,3,2,Private,Split,2800,0,Underground,Low,3,0,Normal,Modern,1,1,Single-glazed
+35.69876525,51.4493056,83,6,8,,2,Promissory Contract,Water Cooler,2573,0,Underground,Average,0.7,0,Excellent,Modern,1,1,Single-glazed
+35.79275103,51.46521892,274,25,3,2,7,Endowment,Split,4658,1,Courtyard,Low,5.2,0,Normal,Mixed,1,1,Single-glazed
+35.70064457,51.39770033,102,20,17,2,3,Cooperative,Split,2244,0,Courtyard,Average,7.4,0,Normal,Classic,1,1,Double-glazed
+35.68250167,51.38485189,190,26,7,5,5,Endowment,nan,6650,1,Courtyard,Average,7,0,Normal,Classic,1,1,Single-glazed
+35.79083461,51.45718473,192,41,18,14,5,Promissory Contract,nan,4800,1,Roofed,Average,8.2,0,Normal,Mixed,1,1,Double-glazed
+35.66676843,51.40456048,242,44,17,13,6,,nan,6776,1,Courtyard,Average,4.9,0,Normal,Classic,0,1,Double-glazed
+35.71535301,51.3977436,85,13,10,,1,Private,Split,1700,0,Roofed,High,5,0,Poor,Mixed,1,1,Double-glazed
+35.7078527,51.43504201,278,39,11,9,7,Private,nan,9730,1,Underground,Average,5.8,0,Normal,Modern,1,1,Double-glazed
+35.72118771,51.33135854,106,25,5,4,3,Private,Water Cooler,2226,0,Underground,Low,2.8,0,Normal,Modern,0,1,Double-glazed
+35.82782151,51.45161681,301,34,10,,8,Endowment,nan,5418,1,Courtyard,High,8.7,0,Normal,Roman,1,1,Double-glazed
+35.71867492,51.42955157,369,25,9,7,9,Promissory Contract,Water Cooler,9225,1,Roofed,Average,7.5,0,Excellent,Modern,1,1,Single-glazed
+35.80233698,51.50676086,122,19,13,11,3,Power of Attorney,Water Cooler,4270,1,Underground,High,8.9,0,Normal,Roman,1,1,Single-glazed
+35.75761999,51.4683339,159,11,3,1,4,Private,Chiller,5088,1,Courtyard,High,1.3,0,Excellent,Roman,0,0,Double-glazed
+35.69796875,51.49751662,187,6,5,5,5,Private,Chiller,6919,1,Roofed,High,9.8,0,Poor,Roman,0,0,Double-glazed
+35.7288565,51.42645577,257,10,5,1,6,Endowment,Split,6939,0,Roofed,High,6.6,0,Normal,Roman,1,1,Double-glazed
+35.65494191,51.38177842,164,34,18,,4,Private,nan,6068,0,Roofed,Low,4.6,0,Excellent,Modern,0,1,Single-glazed
+35.6903101,51.49601594,225,15,3,2,6,Private,Water Cooler,4050,1,Roofed,Average,8.4,0,Normal,Roman,1,1,Double-glazed
+35.64976834,51.49339005,217,8,17,12,5,Foundation,Split,4991,0,Underground,Average,9,0,Normal,Mixed,1,1,Double-glazed
+35.8187458,51.37916394,49,0,15,14,1,Private,Split,,0,Doesn't Have,High,10.2,0,Normal,Classic,0,1,Single-glazed
+35.64192326,51.42909362,415,22,4,1,10,Cooperative,Water Cooler,10375,1,Courtyard,High,2.8,0,Normal,Modern,0,1,Single-glazed
+35.72238521,51.46990968,84,0,10,4,2,Private,Water Cooler,3024,0,Roofed,High,3.3,0,Normal,Roman,1,1,Double-glazed
+35.81390706,51.55970061,223,31,5,1,6,Foundation,nan,8474,1,Courtyard,High,3.2,0,Normal,Modern,0,1,Triple-glazed
+35.64544468,51.48128025,243,8,6,,6,Endowment,Chiller,4617,1,Underground,Low,1.2,0,Excellent,Classic,1,1,Triple-glazed
+35.63382549,51.44880759,226,9,10,3,6,Private,Water Cooler,5876,1,Courtyard,High,0.7,0,Normal,Classic,0,1,Single-glazed
+35.72575665,51.44384483,249,19,15,6,6,Cooperative,Chiller,6474,1,Courtyard,Average,7.4,0,Normal,Roman,0,1,Double-glazed
+35.78306228,51.45777053,94,14,6,2,2,Promissory Contract,Chiller,3666,0,Roofed,Average,2,0,Normal,Roman,1,1,Double-glazed
+35.68981119,51.40405793,94,20,7,3,1,Private,Water Cooler,3290,0,Underground,Average,8.1,0,Normal,Mixed,0,1,Double-glazed
+35.77536262,51.39573896,240,19,9,2,6,Cooperative,Split,4800,1,Roofed,Average,8.2,0,Normal,Classic,1,1,Double-glazed
+35.76148497,51.43484123,166,10,4,4,4,Private,Water Cooler,3320,0,Courtyard,Low,9.5,0,Normal,Classic,0,1,Double-glazed
+35.71946007,51.370544,275,30,2,1,7,Promissory Contract,nan,9900,1,Courtyard,High,9.3,0,Normal,Modern,1,0,Double-glazed
+35.62497291,51.32856534,304,39,11,3,8,Private,nan,6992,0,Underground,Low,6.6,0,Normal,Mixed,1,1,Triple-glazed
+35.82705749,51.46239162,317,30,12,,8,,nan,9510,1,Roofed,Average,1.8,0,Normal,Mixed,0,1,Double-glazed
+35.79317622,51.4583672,202,24,15,3,5,,Water Cooler,7676,1,Roofed,Low,10,0,Normal,Mixed,1,1,Double-glazed
+35.66021535,51.38860498,206,45,18,5,5,Private,nan,5974,1,Underground,Average,5.7,0,Normal,Classic,1,1,Double-glazed
+35.75489829,51.48568061,174,18,7,4,4,Private,Water Cooler,3306,1,Courtyard,High,10,0,Normal,Modern,1,1,Double-glazed
+35.69583145,51.52291912,99,0,14,4,2,Cooperative,Chiller,3366,0,Roofed,Average,1.8,0,Normal,Classic,0,1,Double-glazed
+35.75155312,51.49176897,172,41,16,9,4,Private,nan,4472,0,Courtyard,Low,6.3,0,Normal,Modern,0,1,Single-glazed
+35.70725467,51.35479723,129,31,4,3,1,Private,nan,3483,1,Roofed,High,6.1,0,Excellent,Mixed,1,0,Double-glazed
+35.74359469,51.31425541,86,41,15,,2,Endowment,nan,3010,0,Roofed,Low,4.2,0,Normal,Modern,1,1,Single-glazed
+35.80856002,51.37541841,284,8,2,1,7,Private,Split,9656,1,Courtyard,Low,7.9,0,Poor,Modern,0,0,Double-glazed
+35.7214594,51.4018839,130,14,4,1,3,Private,Chiller,2080,0,Roofed,Low,9.2,0,Excellent,Roman,1,1,Triple-glazed
+35.75019732,51.46318391,219,36,4,3,5,Private,nan,4599,1,Underground,Average,5.5,0,Normal,Classic,1,1,Double-glazed
+35.75599383,51.44294475,139,23,8,6,3,Cooperative,Split,5004,1,Roofed,High,8.8,0,Normal,Mixed,1,1,Double-glazed
+35.73676306,51.4091012,150,40,16,5,4,Private,nan,4050,1,Doesn't Have,Low,9.7,0,Excellent,Roman,1,1,Double-glazed
+35.73968169,51.34669277,121,31,10,8,4,Cooperative,nan,4235,1,Doesn't Have,High,1,0,Normal,Roman,1,1,Double-glazed
+35.79184481,51.37191229,439,12,7,,11,Private,Split,8780,1,Roofed,High,6.7,0,Poor,Roman,1,1,Double-glazed
+35.78629233,51.30961077,144,12,18,,4,Private,Water Cooler,4320,1,Doesn't Have,Average,7.5,0,Poor,Mixed,1,1,Double-glazed
+35.67327638,51.27533854,247,25,3,,6,Cooperative,Water Cooler,6175,1,Courtyard,Low,1.4,0,Normal,Mixed,1,1,Double-glazed
+35.68885119,51.4963739,103,16,7,4,3,Private,Water Cooler,4017,0,Roofed,Low,7,0,Excellent,Modern,0,1,Double-glazed
+35.60395944,51.35574826,102,27,5,3,3,Foundation,nan,3672,0,Courtyard,Low,0.9,0,Poor,Mixed,1,1,Double-glazed
+35.74292476,51.45156675,53,13,7,4,1,Promissory Contract,Chiller,,0,Roofed,Average,4.1,0,Poor,Mixed,1,1,Double-glazed
+35.69094838,51.47394435,243,7,6,3,5,Private,Split,7776,0,Roofed,High,4.5,0,Normal,Mixed,1,1,Double-glazed
+35.64159815,51.38467399,319,24,17,16,8,Private,Split,6699,1,Roofed,High,11.1,0,Normal,Modern,1,1,Single-glazed
+35.82354213,51.48707283,136,38,7,3,3,Foundation,nan,4760,1,Roofed,Average,1,0,Excellent,Modern,1,1,Single-glazed
+35.69445669,51.42070786,96,29,7,5,2,Private,nan,2688,0,Roofed,Low,10.8,0,Normal,Roman,1,1,Double-glazed
+35.73042695,51.41555096,62,20,7,1,2,Private,Split,,0,Roofed,Average,7.9,0,Normal,Modern,0,1,Double-glazed
+35.6245855,51.47330228,90,22,15,6,2,Private,Water Cooler,1530,0,Underground,Average,5.7,0,Poor,Mixed,1,1,Double-glazed
+35.7167813,51.37346775,191,28,4,,5,Private,nan,4011,1,Roofed,Average,3.2,0,Normal,Roman,0,1,Double-glazed
+35.74129899,51.50468024,93,47,14,11,2,Private,nan,1395,0,Underground,Low,2.2,0,Poor,Mixed,0,1,Single-glazed
+35.64572912,51.44487968,73,19,8,2,2,,Water Cooler,2117,0,Courtyard,Low,9.4,0,Normal,Mixed,1,1,Double-glazed
+35.79364608,51.39367024,179,8,18,2,4,,Water Cooler,6981,1,Underground,High,7.5,0,Normal,Classic,1,1,Double-glazed
+35.71292211,51.50306992,230,0,8,,6,Promissory Contract,Water Cooler,5750,0,Underground,Low,7.2,0,Poor,Roman,1,1,Double-glazed
+35.74612825,51.356025,286,40,16,,7,Private,nan,8580,1,Doesn't Have,Low,9.1,0,Normal,Modern,1,1,Double-glazed
+35.67915069,51.38612155,155,3,14,,4,Private,Water Cooler,4960,1,Roofed,Low,5.8,0,Normal,Classic,0,1,Triple-glazed
+35.76296379,51.43076262,191,10,14,12,5,Endowment,Chiller,6876,1,Underground,Low,4.4,0,Normal,Classic,1,1,Double-glazed
+35.65587167,51.35096878,208,24,18,12,5,Private,Water Cooler,7904,1,Roofed,High,3,0,Normal,Modern,0,1,Single-glazed
+35.78870169,51.33212453,148,3,7,7,4,Power of Attorney,Chiller,3108,1,Roofed,High,6.6,0,Normal,Mixed,1,1,Double-glazed
+35.80361802,51.38421925,263,4,16,15,4,Private,Split,3945,1,Roofed,High,2.1,1,Normal,Modern,0,1,Double-glazed
+35.73664722,51.3499125,425,41,13,5,11,Foundation,nan,7650,1,Roofed,Average,2.2,0,Normal,Roman,1,1,Double-glazed
+35.83133562,51.51161488,193,28,7,4,5,Cooperative,nan,3860,1,Underground,High,6.7,0,Poor,Classic,0,1,Double-glazed
+35.78451601,51.48219736,224,10,15,8,6,Power of Attorney,Water Cooler,5152,1,Roofed,Average,8.7,0,Poor,Roman,0,1,Double-glazed
+35.70840156,51.41778092,83,7,12,,5,Private,Water Cooler,1411,0,Underground,Average,11.3,0,Normal,Mixed,0,1,Double-glazed
+35.65325664,51.3940289,98,21,14,9,2,Private,Water Cooler,2744,0,Underground,Average,11,0,Normal,Classic,0,1,Triple-glazed
+35.79206189,51.40496479,127,25,8,8,3,Private,Water Cooler,2032,1,Courtyard,High,5.6,0,Normal,Modern,1,1,Double-glazed
+35.66796561,51.50415509,201,3,7,7,5,Private,Chiller,6432,1,Doesn't Have,Average,9.6,1,Normal,Modern,0,1,Double-glazed
+35.728051,51.33616516,429,32,10,7,11,Private,nan,10296,1,Courtyard,High,4.1,0,Excellent,Roman,0,1,Double-glazed
+35.76122102,51.30530939,226,39,19,6,6,Foundation,nan,8362,1,Roofed,Average,7,0,Normal,Classic,0,1,Double-glazed
+35.73787281,51.37521559,103,20,12,10,3,Private,Chiller,1854,0,Courtyard,Low,6.5,0,Poor,Modern,1,1,Double-glazed
+35.72383697,51.41222418,75,32,16,16,2,Cooperative,nan,2400,0,Underground,Average,3.7,0,Normal,Modern,1,1,Double-glazed
+35.68892747,51.34681434,164,14,14,11,4,Private,Chiller,5740,1,Courtyard,Low,7.7,0,Excellent,Modern,1,1,Triple-glazed
+35.66115501,51.49029981,225,8,2,2,6,Private,Split,5625,1,Courtyard,Low,2.4,0,Normal,Mixed,0,1,Double-glazed
+35.72802127,51.51107862,237,0,9,2,5,,Chiller,9006,1,Roofed,Average,2.4,0,Excellent,Roman,1,1,Single-glazed
+35.71761586,51.32784965,237,30,4,2,6,Cooperative,nan,7347,1,Courtyard,Average,6.1,0,Normal,Classic,1,1,Double-glazed
+35.79713603,51.46766069,204,35,13,8,5,Cooperative,nan,7956,1,Courtyard,Low,0.7,0,Normal,Modern,1,1,Double-glazed
+35.79321343,51.41935821,215,14,15,12,5,Private,Water Cooler,5375,0,Roofed,Average,2.3,0,Poor,Modern,1,1,Double-glazed
+35.74174401,51.44436552,239,28,12,7,6,Private,nan,8365,1,Roofed,Average,9.8,0,Normal,Modern,0,1,Double-glazed
+35.71309491,51.43676076,230,20,2,1,4,,Chiller,8280,1,Underground,High,4.3,0,Normal,Classic,1,0,Double-glazed
+35.75932865,51.39609419,104,32,15,2,3,Private,nan,1976,0,Roofed,High,2.5,0,Excellent,Modern,1,1,Triple-glazed
+35.73827013,51.45035714,373,9,10,,9,Private,Chiller,8952,1,Underground,Average,1.4,0,Poor,Modern,1,1,Single-glazed
+35.69146229,51.36875097,500,15,8,7,12,Private,Water Cooler,13000,1,Roofed,Average,10.6,0,Poor,Classic,1,1,Single-glazed
+35.69899892,51.31162243,151,35,16,,4,,nan,3020,1,Roofed,Low,8.5,0,Poor,Modern,0,1,Double-glazed
+35.75025689,51.43501739,105,0,7,6,3,Private,Water Cooler,1575,0,Underground,Low,3.8,0,Normal,Mixed,1,1,Triple-glazed
+35.62063305,51.43805797,119,35,13,6,3,Private,nan,3570,0,Underground,Average,5.3,0,Poor,Classic,1,1,Single-glazed
+35.65551332,51.48296285,130,7,4,,3,Endowment,Chiller,2860,1,Courtyard,High,2,0,Poor,Roman,0,1,Double-glazed
+35.69275793,51.38041487,101,28,9,3,3,Private,nan,2222,0,Courtyard,High,11.9,0,Normal,Mixed,1,1,Single-glazed
+35.74469465,51.31082801,304,26,19,19,8,Private,nan,10032,1,Courtyard,Low,5.7,0,Excellent,Modern,0,1,Double-glazed
+35.6937473,51.43755653,147,14,12,10,4,Endowment,Chiller,5439,1,Underground,Average,2.3,0,Excellent,Modern,1,1,Single-glazed
+35.68709281,51.29246888,260,36,5,2,6,Private,nan,5720,0,Roofed,High,1.2,0,Normal,Mixed,1,0,Double-glazed
+35.72897807,51.45334116,208,27,18,16,5,Endowment,nan,6240,1,Doesn't Have,High,4.5,0,Normal,Roman,0,1,Double-glazed
+35.68226871,51.39594549,416,25,18,3,10,Power of Attorney,Water Cooler,7488,1,Doesn't Have,Average,4.9,0,Poor,Mixed,1,1,Double-glazed
+35.67604545,51.41917766,237,12,19,,6,Private,Water Cooler,9243,1,Underground,High,4.2,0,Normal,Mixed,1,1,Double-glazed
+35.62956949,51.3836248,180,50,18,12,4,Private,nan,2880,1,Courtyard,High,3.1,0,Poor,Modern,0,1,Double-glazed
+35.71815897,51.42750281,204,12,12,11,5,Endowment,Split,5508,1,Roofed,Average,5.5,0,Normal,Classic,0,1,Double-glazed
+35.64217016,51.46850296,254,7,5,2,1,Private,Chiller,5080,0,Roofed,Average,8,0,Poor,Modern,1,0,Double-glazed
+35.62030063,51.43986282,102,35,5,4,3,Promissory Contract,nan,3162,0,Courtyard,Low,5.6,0,Normal,Classic,1,0,Double-glazed
+35.74875047,51.32591152,159,28,3,,4,Foundation,nan,3975,1,Roofed,Average,4.5,0,Normal,Roman,1,1,Double-glazed
+35.75159011,51.33532702,323,7,2,2,8,Private,Water Cooler,7429,1,Underground,Low,6.9,0,Poor,Modern,1,0,Double-glazed
+35.61388438,51.31727204,126,25,4,1,3,Private,Chiller,4284,1,Underground,Low,9,0,Poor,Classic,1,1,Single-glazed
+35.65067868,51.4467952,172,34,11,3,4,Promissory Contract,nan,3440,1,Courtyard,Average,4.7,0,Normal,Modern,1,1,Triple-glazed
+35.762229,51.46699278,115,11,11,4,3,Private,Chiller,1955,0,Underground,High,2,0,Normal,Mixed,1,1,Triple-glazed
+35.70963013,51.34908528,321,14,13,11,8,Private,Water Cooler,8667,1,Roofed,Low,5.8,0,Normal,Modern,0,1,Triple-glazed
+35.58046691,51.39325603,63,26,4,,2,Endowment,nan,,0,Underground,High,1.4,0,Excellent,Modern,0,1,Double-glazed
+35.82228489,51.34292278,240,8,19,14,6,Private,Split,5280,1,Underground,Average,1.1,0,Poor,Mixed,1,1,Double-glazed
+35.68401455,51.30998675,218,17,13,6,5,Private,Split,7630,1,Doesn't Have,High,9.5,0,Normal,Classic,1,1,Double-glazed
+35.63479185,51.46740702,167,12,19,9,4,,Split,3006,1,Underground,High,1.2,0,Normal,Roman,0,1,Double-glazed
+35.71229627,51.36809487,314,32,6,3,8,,nan,6280,1,Underground,Low,0.8,0,Normal,Modern,1,1,Double-glazed
+35.62132859,51.49446544,77,0,15,,2,Private,Water Cooler,1694,0,Roofed,Low,3,0,Poor,Classic,1,1,Double-glazed
+35.68609109,51.41935507,149,13,8,7,4,Private,Water Cooler,3725,1,Courtyard,Low,7.2,0,Normal,Classic,1,1,Double-glazed
+35.69729052,51.46314308,87,22,3,1,2,Private,Split,3132,0,Roofed,High,8.6,0,Poor,Modern,1,1,Double-glazed
+35.75639426,51.37095117,62,26,5,4,2,Private,nan,,0,Roofed,Average,11.1,0,Normal,Classic,1,0,Double-glazed
+35.7408937,51.42262015,181,21,2,2,5,Private,Split,5430,1,Roofed,Low,5.3,0,Normal,Classic,1,1,Double-glazed
+35.65041145,51.51277318,173,0,5,,4,Private,Chiller,6747,0,Courtyard,Low,3.9,0,Poor,Roman,1,0,Double-glazed
+35.75206965,51.32087988,190,6,17,6,5,Private,Chiller,4180,1,Underground,Average,8.2,0,Poor,Roman,0,1,Single-glazed
+35.71100622,51.43489064,142,18,7,1,4,Endowment,Split,2840,1,Roofed,Low,10.4,0,Normal,Classic,0,1,Double-glazed
+35.77711501,51.41580862,81,15,13,5,2,Promissory Contract,Chiller,3159,0,Doesn't Have,High,6.7,0,Normal,Mixed,1,1,Double-glazed
+35.73584059,51.54240338,163,22,7,,1,Private,Split,3423,1,Courtyard,Average,10.1,0,Normal,Classic,1,1,Double-glazed
+35.80060191,51.45021363,187,43,6,,5,Private,nan,2992,1,Underground,Average,10.5,0,Poor,Mixed,1,1,Double-glazed
+35.63946207,51.31477734,500,16,5,4,12,Private,Chiller,16500,0,Underground,Low,4.2,0,Normal,Modern,1,0,Double-glazed
+35.75509449,51.42500898,89,2,19,7,2,Private,Water Cooler,3471,0,Underground,High,10.9,1,Normal,Modern,1,1,Double-glazed
+35.76767763,51.36964145,300,23,11,2,8,Private,Water Cooler,9600,0,Roofed,Average,4.5,0,Poor,Modern,1,1,Double-glazed
+35.64462013,51.43002317,150,40,10,1,4,Endowment,nan,5850,1,Roofed,High,2.5,0,Excellent,Modern,1,1,Triple-glazed
+35.77646707,51.47701779,176,17,7,,1,Cooperative,Chiller,4048,0,Doesn't Have,Low,6.9,0,Excellent,Mixed,0,1,Single-glazed
+35.79296336,51.33902449,243,11,12,,1,Power of Attorney,Split,8991,0,Doesn't Have,Low,10.3,0,Poor,Modern,0,1,Double-glazed
+35.72531879,51.45856349,155,21,3,3,4,Private,Chiller,2480,1,Courtyard,High,8.8,0,Normal,Mixed,1,1,Double-glazed
+35.72948244,51.40340838,104,9,13,3,3,Cooperative,Water Cooler,3120,0,Underground,Low,1.4,0,Normal,Modern,0,1,Double-glazed
+35.71809155,51.41921449,65,13,4,1,2,Cooperative,Water Cooler,,0,Courtyard,High,1,0,Excellent,Mixed,1,1,Single-glazed
+35.79039531,51.36845365,90,0,9,8,2,Private,Split,1440,0,Courtyard,Average,5.2,0,Normal,Mixed,1,1,Double-glazed
+35.7357466,51.39848414,150,28,17,14,4,Private,nan,2400,1,Courtyard,Low,11.2,0,Normal,Roman,0,1,Double-glazed
+35.66845805,51.48661667,77,0,12,1,1,Private,Chiller,1309,0,Roofed,Low,7.9,0,Normal,Modern,0,1,Double-glazed
+35.8129018,51.35386683,186,14,7,7,5,Private,Chiller,5952,1,Underground,Average,2.5,0,Normal,Mixed,1,1,Double-glazed
+35.78570218,51.45399904,208,20,10,2,5,Private,Split,3952,1,Courtyard,Average,2.5,0,Normal,Modern,0,1,Single-glazed
+35.74362619,51.30414978,193,45,11,11,5,Private,nan,7527,1,Roofed,Low,3.9,0,Normal,Modern,0,1,Double-glazed
+35.74646548,51.35397517,119,26,11,,3,,nan,3094,0,Underground,Low,2.3,0,Poor,Modern,1,1,Double-glazed
+35.80062831,51.40050245,169,31,5,3,4,Cooperative,nan,4732,1,Underground,Average,9.4,0,Normal,Mixed,0,0,Double-glazed
+35.79971998,51.34319262,120,28,18,2,3,Private,nan,3360,0,Roofed,High,6,0,Normal,Mixed,1,1,Triple-glazed
+35.84301603,51.4648724,257,27,7,1,6,Private,nan,6425,0,Roofed,Average,11.3,0,Excellent,Classic,0,1,Single-glazed
+35.76184242,51.45237836,344,10,16,14,1,Private,Split,10664,1,Roofed,High,10.4,0,Normal,Roman,1,1,Double-glazed
+35.66668558,51.48884541,236,20,16,1,6,Private,Chiller,8732,1,Roofed,High,1.9,0,Poor,Roman,1,1,Single-glazed
+35.70636134,51.39002112,108,14,5,1,3,Private,Water Cooler,1728,0,Underground,Low,11.5,0,Normal,Modern,0,0,Single-glazed
+35.67509164,51.44510724,209,17,15,6,1,Private,Chiller,5434,0,Courtyard,High,7.4,0,Normal,Roman,1,1,Double-glazed
+35.74195297,51.51476624,72,24,12,10,2,Private,Chiller,1944,0,Roofed,High,0.6,0,Normal,Modern,0,1,Single-glazed
+35.72801047,51.4171659,210,37,2,2,5,,nan,6090,1,Underground,Average,8.3,0,Normal,Roman,1,1,Single-glazed
+35.72812419,51.40566569,331,14,19,2,4,,Chiller,12578,1,Roofed,Low,9.2,0,Normal,Modern,0,1,Double-glazed
+35.76154775,51.4286159,99,31,12,2,2,Private,nan,2079,0,Roofed,Average,11.8,0,Normal,Classic,0,1,Double-glazed
+35.85463098,51.34907961,135,18,3,3,3,Private,Water Cooler,2835,1,Underground,Average,4.3,0,Normal,Mixed,1,0,Double-glazed
+35.78295947,51.42935144,142,23,5,5,4,Power of Attorney,Water Cooler,5112,1,Underground,Low,1.4,0,Excellent,Mixed,1,0,Double-glazed
+35.71253653,51.42980021,258,33,19,1,6,Endowment,nan,4386,1,Courtyard,High,1.8,0,Normal,Modern,1,1,Double-glazed
+35.80423578,51.47731287,204,37,19,6,5,Private,nan,6732,1,Roofed,Average,4,0,Poor,Classic,0,1,Single-glazed
+35.70049724,51.35642541,218,31,8,6,5,Cooperative,nan,3488,1,Roofed,High,10,0,Normal,Roman,0,1,Single-glazed
+35.85082771,51.43841779,191,44,19,7,5,Foundation,nan,5157,1,Underground,High,8.6,0,Normal,Roman,1,1,Double-glazed
+35.81848691,51.4691338,223,31,2,1,6,Private,nan,4906,1,Underground,High,6.5,0,Normal,Modern,1,1,Double-glazed
+35.86322163,51.46560925,273,31,16,7,7,Private,nan,7917,1,Roofed,High,8.4,0,Normal,Roman,1,1,Double-glazed
+35.74678745,51.49888009,82,50,8,5,2,Private,nan,1968,0,Underground,High,4.7,0,Poor,Roman,1,1,Triple-glazed
+35.81278607,51.50771674,89,15,18,5,2,Private,Chiller,3471,0,Roofed,High,7.5,0,Normal,Roman,1,1,Double-glazed
+35.75307408,51.41021881,132,23,7,1,3,Private,Water Cooler,4620,1,Roofed,Average,10.9,0,Normal,Classic,0,1,Double-glazed
+35.60477539,51.3235098,165,17,9,5,4,Private,Chiller,4290,1,Roofed,Average,0.5,0,Normal,Classic,0,1,Double-glazed
+35.697052,51.38785302,145,27,5,2,5,Private,nan,4495,1,Roofed,High,3.2,0,Normal,Mixed,0,1,Double-glazed
+35.65013502,51.39214134,373,37,10,2,9,,nan,5595,1,Courtyard,Average,7.7,0,Normal,Roman,0,1,Double-glazed
+35.79267214,51.44594374,165,37,19,,4,Private,nan,4125,1,Roofed,Low,4.4,0,Normal,Roman,1,1,Double-glazed
+35.69252115,51.36292671,135,5,9,4,3,Promissory Contract,Water Cooler,3510,1,Courtyard,Low,11.2,0,Normal,Modern,0,1,Double-glazed
+35.74101273,51.41837083,116,23,3,3,3,Private,Split,3828,0,Roofed,Low,7.8,0,Normal,Mixed,1,1,Double-glazed
+35.67394572,51.3097383,184,14,13,1,5,Endowment,Split,4600,1,Courtyard,High,10.4,0,Normal,Mixed,1,1,Single-glazed
+35.7311786,51.47446644,263,17,13,5,7,Private,Chiller,8942,1,Roofed,Average,4.4,0,Normal,Mixed,1,1,Double-glazed
+35.70225453,51.40061449,215,30,7,6,5,Private,nan,8385,1,Underground,Low,1.5,0,Excellent,Roman,0,1,Double-glazed
+35.79343928,51.40870773,202,15,12,4,5,Private,Split,4444,0,Roofed,High,2.2,0,Normal,Roman,1,1,Double-glazed
+35.56372047,51.43163916,137,19,11,3,3,Private,Water Cooler,3836,1,Roofed,Average,4.4,0,Normal,Roman,0,1,Double-glazed
+35.82872743,51.49683892,335,28,15,9,8,Private,nan,6700,1,Roofed,Average,6.7,0,Normal,Modern,0,1,Double-glazed
+35.7685592,51.39557697,182,13,17,4,1,,Chiller,4368,1,Roofed,Low,4.9,0,Excellent,Mixed,1,1,Single-glazed
+35.78173955,51.36529392,69,17,8,,2,Private,Chiller,,0,Courtyard,Average,8.6,0,Excellent,Roman,1,1,Double-glazed
+35.62977013,51.43821202,199,34,8,4,1,Private,nan,3582,1,Underground,High,3.6,0,Excellent,Mixed,0,1,Triple-glazed
+35.77915919,51.42763312,215,14,5,5,5,Cooperative,Chiller,6450,1,Courtyard,High,6,0,Poor,Mixed,1,1,Double-glazed
+35.79130185,51.38442215,106,7,11,10,3,Private,Chiller,1908,0,Roofed,High,1.7,0,Normal,Modern,0,1,Double-glazed
+35.6303239,51.37457769,160,22,16,,4,Private,Split,6080,1,Courtyard,Average,7.1,0,Poor,Classic,0,1,Double-glazed
+35.75749284,51.41826301,155,17,14,7,4,Foundation,Split,5735,1,Doesn't Have,High,0.8,0,Excellent,Modern,0,1,Double-glazed
+35.69180354,51.42674619,166,20,19,12,4,Private,Split,6308,1,Roofed,Low,2.1,0,Normal,Classic,0,1,Triple-glazed
+35.69252738,51.41218825,209,31,19,12,5,Private,nan,7733,1,Courtyard,High,3.6,0,Normal,Classic,1,1,Double-glazed
+35.68732257,51.45480271,398,18,10,6,10,Private,Split,10746,0,Underground,High,4.8,0,Normal,Roman,0,1,Single-glazed
+35.8172512,51.36239822,272,21,15,,7,Private,Water Cooler,9520,1,Roofed,Low,11.2,0,Normal,Classic,1,1,Double-glazed
+35.74100576,51.4324084,116,18,5,,3,Private,Water Cooler,2784,0,Roofed,Low,2.6,0,Normal,Classic,1,1,Double-glazed
+35.70517543,51.37630749,137,15,17,7,3,Private,Chiller,3836,0,Underground,Average,9.2,0,Excellent,Mixed,1,1,Double-glazed
+35.73760058,51.36239796,200,13,15,11,1,Promissory Contract,Chiller,6000,1,Underground,Low,2.2,0,Normal,Classic,0,1,Triple-glazed
+35.76941373,51.39967677,292,28,5,5,7,Private,nan,6424,1,Doesn't Have,Average,3.5,0,Excellent,Modern,1,1,Triple-glazed
+35.54457009,51.37934281,63,23,16,16,2,Power of Attorney,Split,,0,Courtyard,Low,6.5,0,Normal,Classic,1,1,Double-glazed
+35.71991374,51.36020389,117,27,6,6,3,Private,nan,1755,0,Underground,Low,6.2,0,Normal,Roman,1,1,Double-glazed
+35.71747753,51.36469462,158,21,10,9,4,Promissory Contract,Split,4582,1,Roofed,High,10.4,0,Excellent,Modern,1,1,Single-glazed
+35.81164128,51.35291353,139,9,11,8,3,Private,Water Cooler,5004,1,Roofed,High,7.8,0,Normal,Classic,1,1,Double-glazed
+35.75191788,51.3846931,305,29,5,2,8,Endowment,nan,8235,0,Doesn't Have,Average,11.8,0,Normal,Roman,1,1,Double-glazed
+35.7387897,51.50015972,127,19,2,1,3,Private,Water Cooler,3556,1,Underground,Average,10.9,0,Excellent,Classic,1,1,Double-glazed
+35.78283022,51.4511305,229,29,8,2,6,Private,nan,4122,1,Courtyard,Average,7.1,0,Normal,Roman,0,1,Double-glazed
+35.72399715,51.41645037,250,27,2,2,6,Private,nan,5500,0,Underground,High,8.6,0,Normal,Classic,1,1,Double-glazed
+35.75272248,51.45153332,231,46,7,2,6,,nan,6237,1,Roofed,High,11.9,0,Normal,Classic,1,1,Double-glazed
+35.70478321,51.34857434,106,14,10,9,3,Private,Water Cooler,4028,0,Courtyard,Low,8.4,0,Normal,Classic,1,1,Single-glazed
+35.78052008,51.35692385,221,6,5,5,6,Private,Water Cooler,7735,0,Courtyard,Low,11.7,0,Normal,Mixed,1,1,Double-glazed
+35.66867444,51.47031904,214,7,10,4,5,Private,Split,3424,0,Underground,Low,11.9,0,Normal,Modern,1,1,Double-glazed
+35.84258575,51.3739286,94,2,10,1,2,Private,Chiller,2914,0,Underground,Average,4.4,1,Poor,Classic,1,1,Double-glazed
+35.7621394,51.38187922,176,21,10,2,4,,Water Cooler,4928,1,Underground,High,7.9,0,Normal,Modern,1,1,Double-glazed
+35.69939236,51.46851994,183,0,11,5,5,Private,Chiller,2745,1,Doesn't Have,High,5.9,1,Poor,Roman,1,1,Double-glazed
+35.81448883,51.26921951,206,18,19,9,1,Private,Water Cooler,6180,1,Courtyard,Average,12,0,Normal,Classic,0,1,Double-glazed
+35.73508848,51.40809746,191,5,11,2,5,Private,Water Cooler,6112,1,Roofed,High,8.1,0,Normal,Classic,0,1,Single-glazed
+35.81766274,51.45973272,200,39,7,1,5,Private,nan,7600,1,Underground,Average,8.7,0,Poor,Mixed,0,1,Double-glazed
+35.73067756,51.44442634,140,17,9,1,4,Cooperative,Split,2660,0,Underground,High,2,0,Normal,Modern,0,1,Single-glazed
+35.68266247,51.40306979,192,47,2,2,5,Cooperative,nan,4224,1,Roofed,Average,2,0,Normal,Classic,0,1,Double-glazed
+35.7537138,51.35722969,109,37,4,4,3,Private,nan,3597,0,Roofed,Low,5.2,0,Normal,Mixed,1,1,Single-glazed
+35.69005894,51.43642913,222,0,7,5,6,Cooperative,Water Cooler,3330,1,Underground,High,7.7,1,Normal,Mixed,1,1,Double-glazed
+35.70289561,51.55280163,259,11,16,4,6,Private,Water Cooler,9583,1,Roofed,Average,2.7,0,Normal,Classic,0,1,Triple-glazed
+35.72345456,51.4026846,128,19,9,7,3,Cooperative,Chiller,2432,1,Doesn't Have,High,1.9,0,Normal,Classic,1,1,Double-glazed
+35.65789169,51.40867102,173,30,18,9,4,Private,nan,5709,1,Roofed,Average,9.2,0,Excellent,Mixed,0,1,Double-glazed
+35.73818079,51.38348828,161,25,5,3,4,Private,Water Cooler,4669,1,Underground,Low,11.4,0,Normal,Classic,1,1,Single-glazed
+35.70214266,51.43687683,136,28,8,6,3,Power of Attorney,nan,5032,1,Underground,Low,4.5,0,Normal,Mixed,0,1,Triple-glazed
+35.77760469,51.38045636,240,0,5,3,6,Private,Chiller,4560,0,Doesn't Have,Average,1.3,1,Normal,Modern,1,1,Single-glazed
+35.73999814,51.42704862,280,30,5,3,7,Private,nan,7280,1,Underground,High,10,0,Normal,Classic,0,0,Double-glazed
+35.7040573,51.48413208,196,4,10,8,5,Private,Split,5684,0,Roofed,Average,2.6,0,Normal,Mixed,1,1,Single-glazed
+35.73692915,51.45390327,179,26,7,7,4,Private,nan,6265,1,Roofed,Low,9.9,0,Poor,Modern,0,1,Single-glazed
+35.69239996,51.42217972,93,26,3,1,2,Private,nan,1860,0,Roofed,High,9.5,0,Normal,Modern,0,0,Single-glazed
+35.64879203,51.48022357,158,0,18,,4,Private,Water Cooler,5214,0,Underground,Average,9.6,1,Normal,Mixed,1,1,Double-glazed
+35.82674967,51.51673818,197,32,12,12,5,Private,nan,3743,1,Underground,Low,6.9,0,Poor,Roman,0,1,Single-glazed
+35.78900791,51.43224227,160,11,15,7,4,,Split,6240,0,Roofed,High,12,0,Normal,Roman,0,1,Double-glazed
+35.73745295,51.44275932,104,25,2,2,3,Endowment,Chiller,3640,0,Doesn't Have,High,8.2,0,Normal,Modern,1,0,Double-glazed
+35.7942845,51.39428062,165,12,2,1,4,Private,Chiller,3135,1,Doesn't Have,Low,3.2,0,Normal,Classic,1,1,Double-glazed
+35.66311285,51.39176562,100,29,3,,4,Private,nan,1600,0,Doesn't Have,High,5.3,0,Poor,Modern,0,1,Double-glazed
+35.81661608,51.40518515,162,14,3,,4,Private,Chiller,4374,1,Roofed,Average,5.7,0,Normal,Modern,1,1,Double-glazed
+35.76446014,51.38962799,249,14,11,8,5,Private,Water Cooler,5229,1,Courtyard,Low,0.8,0,Normal,Roman,1,1,Double-glazed
+35.72788988,51.46184011,256,21,5,4,6,Cooperative,Water Cooler,4096,1,Courtyard,Low,2.2,0,Normal,Roman,1,0,Double-glazed
+35.75884681,51.33531889,296,9,17,4,7,Private,Chiller,10064,1,Underground,High,8.9,0,Normal,Classic,1,1,Double-glazed
+35.8013661,51.51438352,93,9,16,14,5,Private,Water Cooler,2976,0,Courtyard,High,9.9,0,Excellent,Classic,1,1,Double-glazed
+35.7768536,51.39853175,82,11,18,6,2,Private,Split,1804,0,Courtyard,Low,1.4,0,Normal,Mixed,0,1,Double-glazed
+35.79030202,51.40380628,105,11,7,6,3,Endowment,Water Cooler,2520,0,Roofed,High,8.2,0,Excellent,Classic,1,1,Double-glazed
+35.75777661,51.4221799,174,14,8,5,1,Private,Chiller,5220,1,Roofed,Low,8.1,0,Normal,Classic,0,1,Double-glazed
+35.7253384,51.54998336,130,13,7,6,3,Endowment,Split,2860,1,Roofed,Low,1.8,0,Normal,Mixed,0,1,Single-glazed
+35.74290029,51.33660899,130,6,18,,3,Private,Chiller,4420,1,Doesn't Have,High,8.8,0,Normal,Modern,0,1,Double-glazed
+35.75329759,51.38893915,198,29,4,4,5,Private,nan,6138,0,Doesn't Have,Low,6.4,0,Poor,Modern,1,0,Triple-glazed
+35.75554168,51.48640073,252,29,11,8,1,Cooperative,nan,8064,1,Underground,Average,6.4,0,Normal,Modern,1,1,Double-glazed
+35.71077136,51.42725438,157,37,18,2,4,Private,nan,5809,1,Courtyard,High,8.6,0,Excellent,Modern,1,1,Double-glazed
+35.88880677,51.32719067,78,19,8,8,2,Private,Chiller,1170,0,Roofed,Low,3.1,0,Normal,Classic,0,1,Triple-glazed
+35.64060408,51.40970754,500,4,2,2,5,Private,Chiller,13000,1,Underground,Low,10.4,0,Normal,Classic,1,0,Single-glazed
+35.85491394,51.42201419,173,27,3,1,5,Private,nan,5709,1,Underground,Low,11.1,0,Normal,Classic,1,1,Single-glazed
+35.73519956,51.41553568,92,0,18,7,2,Private,Chiller,2760,0,Underground,High,11.7,0,Normal,Mixed,0,1,Single-glazed
+35.68632214,51.43086911,125,6,9,1,3,Cooperative,Split,3250,1,Roofed,High,2.6,0,Excellent,Mixed,1,1,Double-glazed
+35.61726285,51.39221211,316,29,12,8,8,Endowment,nan,9796,1,Underground,High,6.6,0,Excellent,Modern,0,1,Double-glazed
+35.78571883,51.49731839,136,14,2,2,3,Private,Chiller,3808,1,Roofed,Low,1.7,0,Normal,Mixed,1,0,Double-glazed
+35.67673362,51.39751984,236,29,16,,6,Power of Attorney,nan,4248,0,Courtyard,Low,4.2,0,Excellent,Classic,1,1,Triple-glazed
+35.76696244,51.42271559,178,21,15,11,4,Private,Split,3382,1,Roofed,High,2.1,0,Normal,Modern,0,1,Double-glazed
+35.86133735,51.43984171,154,17,4,4,4,Cooperative,Water Cooler,4928,1,Underground,Low,3.4,0,Poor,Roman,1,0,Double-glazed
+35.68806811,51.43527742,330,0,19,11,8,Private,Chiller,8910,0,Doesn't Have,High,5.9,0,Poor,Roman,1,1,Single-glazed
+35.77081827,51.46973056,169,27,14,11,4,Private,nan,5070,1,Courtyard,High,1.6,0,Normal,Classic,1,1,Double-glazed
+35.68561439,51.47352094,180,0,8,2,4,Private,Split,5940,1,Underground,Average,6.9,0,Excellent,Mixed,0,1,Double-glazed
+35.81007732,51.38303218,196,23,19,19,5,Private,Chiller,3528,0,Doesn't Have,Low,10.7,0,Excellent,Roman,1,1,Single-glazed
+35.77552204,51.39089864,288,30,14,8,4,Endowment,nan,7200,1,Courtyard,Low,4.4,0,Poor,Mixed,0,1,Double-glazed
+35.71100329,51.33689021,202,34,9,3,5,Endowment,nan,5050,1,Courtyard,Low,5.5,0,Normal,Modern,0,1,Single-glazed
+35.8669797,51.4681964,151,26,9,1,4,Private,nan,4983,1,Roofed,Average,4,0,Normal,Mixed,1,1,Double-glazed
+35.80055144,51.46242992,76,27,16,11,2,Private,nan,2888,0,Doesn't Have,High,7.4,0,Normal,Modern,1,1,Double-glazed
+35.72031343,51.32425801,198,19,13,7,5,Private,Split,4554,1,Underground,High,7.6,0,Normal,Mixed,1,1,Double-glazed
+35.66163639,51.39269365,150,30,11,11,4,Private,nan,5250,1,Courtyard,Low,7.8,0,Excellent,Mixed,1,1,Double-glazed
+35.74939746,51.42486708,120,16,9,8,3,Private,Chiller,4320,0,Underground,Low,8.3,0,Normal,Mixed,0,1,Double-glazed
+35.65152952,51.35187197,211,32,19,11,5,Private,nan,4009,1,Courtyard,High,10.7,0,Normal,Modern,1,1,Double-glazed
+35.70228052,51.38411095,256,19,16,8,6,Foundation,Chiller,8192,1,Roofed,Average,6.8,0,Normal,Roman,1,1,Triple-glazed
+35.75593174,51.41463021,384,32,2,2,10,Promissory Contract,nan,7680,1,Courtyard,High,7.3,0,Poor,Mixed,1,0,Double-glazed
+35.81758005,51.50222051,190,17,12,4,5,Private,Chiller,7410,1,Courtyard,Average,6,0,Normal,Roman,0,1,Double-glazed
+35.79278433,51.47666248,177,48,3,2,5,,nan,6903,1,Underground,Low,6.2,0,Excellent,Modern,1,1,Double-glazed
+35.77409833,51.47302583,278,29,8,5,7,Foundation,nan,9730,1,Underground,High,8.5,0,Poor,Classic,0,1,Double-glazed
+35.76176644,51.42314541,307,6,4,4,8,Private,Chiller,9517,1,Roofed,High,9,0,Normal,Modern,1,0,Double-glazed
+35.65812356,51.34688651,118,27,15,14,3,Private,nan,2596,0,Roofed,Low,5,0,Normal,Roman,0,1,Double-glazed
+35.83355762,51.56226174,196,21,7,2,5,Foundation,Chiller,7448,1,Underground,Average,4.9,0,Normal,Mixed,0,1,Double-glazed
+35.69286173,51.3665095,104,32,18,9,3,,nan,2496,0,Underground,Low,3.5,0,Normal,Roman,1,1,Double-glazed
+35.82663697,51.49680378,245,29,4,3,1,Private,nan,4410,1,Underground,Average,11.3,0,Poor,Classic,1,1,Double-glazed
+35.79236385,51.44329989,262,9,5,4,5,Private,Chiller,7598,1,Underground,Average,6.6,0,Normal,Roman,0,1,Single-glazed
+35.79386829,51.45665311,143,15,6,1,4,Private,Water Cooler,3575,1,Roofed,Low,9.5,0,Normal,Mixed,0,1,Double-glazed
+35.79484499,51.37719101,208,4,17,4,5,Cooperative,Water Cooler,5200,1,Underground,Average,11.4,1,Normal,Mixed,0,1,Double-glazed
+35.77245001,51.42556135,139,9,2,1,3,Private,Split,4170,1,Underground,High,9.6,0,Poor,Mixed,0,1,Triple-glazed
+35.66853154,51.46084025,194,0,9,1,5,,Water Cooler,7566,1,Courtyard,High,2.1,1,Poor,Mixed,0,1,Double-glazed
+35.72850349,51.37584077,237,30,17,13,6,Private,nan,8295,1,Underground,Low,9.5,0,Normal,Mixed,1,1,Double-glazed
+35.76434814,51.50353499,123,21,3,3,3,Private,Water Cooler,3321,1,Underground,High,1.6,0,Poor,Mixed,0,0,Double-glazed
+35.73116625,51.45061817,290,11,3,2,7,,Split,9570,0,Underground,High,5.7,0,Poor,Mixed,1,1,Double-glazed
+35.7553464,51.39179953,415,34,11,6,10,,nan,7470,1,Roofed,High,7.2,0,Normal,Modern,1,1,Double-glazed
+35.75715785,51.5088625,77,28,9,7,2,Private,nan,1309,0,Roofed,High,6.8,0,Normal,Roman,1,1,Double-glazed
+35.69975716,51.33187088,103,46,19,19,4,Private,nan,3811,0,Underground,Average,10.4,0,Normal,Modern,0,1,Triple-glazed
+35.73959934,51.49023025,228,19,4,,6,Private,Split,4332,1,Underground,Low,6.2,0,Normal,Mixed,0,0,Double-glazed
+35.59635831,51.28749817,244,13,10,6,6,Private,Water Cooler,7320,1,Roofed,Low,11,0,Poor,Classic,1,1,Triple-glazed
+35.69199517,51.46757882,166,13,8,6,4,Private,Water Cooler,4814,1,Roofed,Low,1,0,Poor,Classic,1,1,Triple-glazed
+35.7564352,51.44055717,114,15,18,9,3,Private,Water Cooler,4218,0,Roofed,Average,7.9,0,Normal,Roman,1,1,Double-glazed
+35.75281929,51.41441641,195,16,9,5,5,Private,Chiller,4290,1,Underground,Low,5.4,0,Normal,Roman,1,1,Double-glazed
+35.71422223,51.41940962,123,17,14,3,3,Endowment,Split,2952,1,Courtyard,Average,10.7,0,Normal,Modern,1,1,Double-glazed
+35.76727465,51.46726003,139,15,4,1,3,Promissory Contract,Chiller,2224,1,Underground,High,9,0,Poor,Mixed,0,0,Double-glazed
+35.70875599,51.36389579,177,8,4,2,4,Private,Chiller,2655,1,Courtyard,Low,4.6,0,Normal,Classic,0,1,Single-glazed
+35.76198211,51.43239283,102,22,15,5,3,,Water Cooler,3672,0,Courtyard,Average,7.2,0,Excellent,Roman,1,1,Single-glazed
+35.82579871,51.42500717,95,16,13,11,2,Endowment,Split,3040,0,Roofed,High,9.3,0,Poor,Classic,0,1,Single-glazed
+35.60552132,51.34815533,173,26,11,1,4,,nan,3114,1,Underground,Low,8.5,0,Poor,Modern,1,1,Double-glazed
+35.66470597,51.39535084,160,29,2,2,4,Private,nan,5280,1,Roofed,High,9.8,0,Normal,Modern,1,0,Double-glazed
+35.77243678,51.36823544,197,16,6,3,5,Private,Chiller,4925,1,Underground,Average,11,0,Normal,Mixed,1,1,Double-glazed
+35.65664389,51.36663898,85,41,14,1,2,,nan,2975,0,Roofed,High,9.4,0,Poor,Mixed,1,1,Single-glazed
+35.78531127,51.48212611,173,13,9,,4,Foundation,Chiller,4844,0,Underground,Average,2.4,0,Normal,Roman,1,1,Double-glazed
+35.65095612,51.45183487,340,5,8,4,4,Cooperative,Water Cooler,5440,0,Roofed,High,0.8,0,Normal,Classic,0,1,Single-glazed
+35.78456667,51.4908622,119,29,15,,3,Private,nan,4165,0,Roofed,Low,4.2,0,Normal,Mixed,0,1,Double-glazed
+35.72558347,51.38373356,312,15,2,1,8,Private,Chiller,10920,1,Courtyard,Low,7.7,0,Normal,Roman,1,1,Single-glazed
+35.702266,51.3440959,176,39,9,,5,Private,nan,2640,1,Courtyard,High,10.6,0,Normal,Classic,1,1,Double-glazed
+35.82372747,51.40006584,254,5,19,10,6,Private,Chiller,9398,1,Courtyard,Low,0.8,0,Poor,Roman,0,1,Double-glazed
+35.78253121,51.52497413,323,18,5,2,8,Private,Water Cooler,6137,1,Courtyard,High,7.9,0,Normal,Modern,0,0,Double-glazed
+35.61075195,51.42141178,264,38,15,7,7,Power of Attorney,nan,4224,1,Roofed,High,5.9,0,Normal,Modern,1,1,Triple-glazed
+35.79526559,51.41182625,127,22,12,2,3,Private,Chiller,4318,1,Roofed,High,7.7,0,Poor,Roman,1,1,Double-glazed
+35.80659043,51.50734277,115,26,9,5,3,Foundation,nan,2990,0,Courtyard,High,1,0,Normal,Mixed,1,1,Double-glazed
+35.76266699,51.37840376,211,21,7,4,5,Power of Attorney,Chiller,3798,0,Roofed,High,4.5,0,Normal,Mixed,1,1,Single-glazed
+35.8420779,51.50195535,219,32,5,5,5,Private,nan,5037,0,Roofed,Average,3,0,Normal,Modern,1,1,Double-glazed
+35.65588717,51.45337474,143,6,7,7,4,Private,Water Cooler,3432,1,Courtyard,Low,7.4,0,Poor,Classic,1,1,Single-glazed
+35.74757357,51.35240388,144,16,17,3,4,Private,Split,4032,1,Doesn't Have,High,5,0,Excellent,Roman,1,1,Double-glazed
+35.66242658,51.23510951,191,20,13,,4,Private,Chiller,7258,1,Roofed,Average,8.5,0,Normal,Mixed,0,1,Single-glazed
+35.78812547,51.3571032,232,13,12,9,6,,Split,6264,1,Courtyard,High,7.3,0,Poor,Modern,0,1,Double-glazed
+35.83862595,51.35393599,231,22,8,3,4,Private,Water Cooler,4389,1,Roofed,High,3.7,0,Normal,Mixed,1,1,Double-glazed
+35.78199768,51.40508402,63,8,7,7,2,Private,Water Cooler,,0,Underground,High,5.6,0,Normal,Mixed,0,1,Double-glazed
+35.74600805,51.46039268,243,1,19,1,4,Private,Chiller,3645,1,Roofed,Average,11.9,0,Excellent,Classic,1,1,Double-glazed
+35.70738721,51.36292317,105,25,13,6,1,Private,Chiller,1575,0,Underground,High,6.7,0,Poor,Modern,1,1,Double-glazed
+35.63204776,51.376149,124,22,13,9,3,Private,Water Cooler,4216,0,Roofed,High,7.1,0,Excellent,Roman,1,1,Single-glazed
+35.79256989,51.35078533,150,0,19,4,4,,Split,4800,1,Courtyard,Average,3.4,1,Normal,Modern,1,1,Double-glazed
+35.76686012,51.49634611,257,25,19,,6,Private,Split,3855,0,Underground,Average,8.8,0,Normal,Mixed,1,1,Double-glazed
+35.62134574,51.432501,163,35,17,10,4,Private,nan,3586,1,Courtyard,Average,6.1,0,Normal,Modern,1,1,Single-glazed
+35.74667578,51.41833215,137,14,3,2,3,Private,Split,2192,1,Underground,Average,10.1,0,Normal,Modern,0,1,Double-glazed
+35.85959454,51.48573554,72,37,2,2,2,Private,nan,2160,0,Underground,High,11.3,0,Normal,Roman,0,1,Single-glazed
+35.77597422,51.45579698,198,27,9,8,5,Power of Attorney,nan,6930,1,Doesn't Have,Average,9.3,0,Poor,Classic,0,1,Double-glazed
+35.69779202,51.42502306,257,27,8,4,6,Private,nan,4626,1,Underground,Low,8.6,0,Normal,Classic,1,1,Single-glazed
+35.78173441,51.48116623,185,17,16,5,5,Endowment,Split,3330,1,Roofed,High,0.6,0,Normal,Roman,1,1,Double-glazed
+35.65367006,51.50234914,291,8,8,2,7,Private,Water Cooler,9894,1,Doesn't Have,High,2.5,0,Normal,Roman,1,1,Triple-glazed
+35.71736999,51.41399778,169,33,2,1,4,Cooperative,nan,3042,1,Courtyard,Average,4.1,0,Normal,Classic,0,0,Double-glazed
+35.81865433,51.44171396,291,35,13,13,7,Private,nan,4656,0,Underground,High,10.5,0,Normal,Mixed,1,1,Double-glazed
+35.66207944,51.42062316,186,40,15,9,5,Private,nan,5208,0,Courtyard,Low,1.5,0,Normal,Mixed,1,1,Double-glazed
+35.73303187,51.48780812,95,3,4,2,2,Foundation,Split,1615,0,Courtyard,High,0.7,1,Normal,Mixed,1,1,Single-glazed
+35.62630576,51.43476618,85,37,8,,2,Cooperative,nan,1615,0,Roofed,High,0.7,0,Normal,Mixed,0,1,Double-glazed
+35.71799829,51.37644533,82,21,16,15,2,,Water Cooler,1230,0,Underground,High,1.8,0,Normal,Roman,0,1,Double-glazed
+35.68433804,51.43498068,146,17,7,3,4,Private,Split,5110,1,Underground,High,6.6,0,Normal,Classic,0,1,Double-glazed
+35.67716571,51.43072829,115,0,14,4,3,Private,Split,3795,0,Roofed,High,8.8,0,Normal,Roman,0,1,Double-glazed
+35.66369351,51.33478107,112,21,19,11,3,Endowment,Water Cooler,2016,0,Underground,Low,10.1,0,Excellent,Classic,0,1,Double-glazed
+35.77682017,51.46643307,59,40,5,5,1,Promissory Contract,nan,,0,Roofed,High,3,0,Normal,Mixed,1,0,Double-glazed
+35.72997535,51.37414618,223,43,7,4,5,Private,nan,8697,1,Roofed,Low,11.3,0,Normal,Mixed,0,1,Double-glazed
+35.72415091,51.40561859,210,30,10,4,5,Private,nan,6090,1,Courtyard,High,1,0,Normal,Classic,1,1,Double-glazed
+35.82332205,51.35006054,120,3,14,2,4,Private,Water Cooler,3480,0,Underground,Average,5.8,1,Normal,Mixed,1,1,Double-glazed
+35.7619234,51.36636503,117,18,3,3,3,Private,Water Cooler,1989,0,Roofed,Average,11.3,0,Normal,Roman,0,0,Double-glazed
+35.62411527,51.42048507,119,27,14,8,3,Private,nan,3570,0,Roofed,Average,9.3,0,Normal,Modern,0,1,Double-glazed
+35.78232231,51.39391933,201,19,13,1,5,Power of Attorney,Chiller,5829,1,Roofed,High,8.1,0,Poor,Mixed,0,1,Double-glazed
+35.72764396,51.41769525,204,9,19,,5,Power of Attorney,Water Cooler,5100,0,Roofed,High,4.5,0,Normal,Mixed,1,1,Double-glazed
+35.7880123,51.3190787,116,15,8,8,3,Cooperative,Chiller,4060,0,Underground,Average,2.8,0,Normal,Modern,0,1,Double-glazed
+35.76780187,51.37089569,129,23,16,2,3,Cooperative,Water Cooler,3225,0,Courtyard,Low,7,0,Normal,Modern,1,1,Double-glazed
+35.77121312,51.41398408,313,29,4,2,8,,nan,6573,1,Roofed,Average,10.3,0,Normal,Roman,0,0,Double-glazed
+35.78929015,51.3889637,243,18,12,2,4,Cooperative,Split,4617,1,Courtyard,Low,8.6,0,Normal,Modern,0,1,Double-glazed
+35.78698311,51.38387984,252,27,17,3,4,Foundation,nan,8568,1,Doesn't Have,Average,9,0,Normal,Modern,0,1,Double-glazed
+35.60641468,51.37128324,99,30,19,2,5,Private,nan,1881,0,Underground,Low,1.2,0,Normal,Mixed,0,1,Double-glazed
+35.69272063,51.39192033,91,28,19,15,4,Endowment,nan,2912,0,Underground,Average,8.1,0,Normal,Roman,0,1,Double-glazed
+35.78282395,51.45024119,165,20,9,7,4,Foundation,Chiller,6270,1,Underground,High,6.2,0,Normal,Classic,1,1,Double-glazed
