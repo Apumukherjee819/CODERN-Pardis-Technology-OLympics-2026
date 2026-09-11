@@ -1,0 +1,207 @@
+city,total_matches_hosted,total_goals_scored,avg_goals_per_match
+Saint Croix,12,52.0,4.33
+Honiara,32,137.0,4.28
+Istanbul,14,59.0,4.21
+Mayagüez,12,50.0,4.17
+Bridgetown,15,57.0,3.8
+Manila,14,53.0,3.79
+St. Gallen,12,45.0,3.75
+Debrecen,12,44.0,3.67
+Bishan,13,47.0,3.62
+Brussels,18,65.0,3.61
+Nassau,10,36.0,3.6
+Port of Spain,17,60.0,3.53
+Auckland,11,38.0,3.45
+Guatemala City,21,72.0,3.43
+Kingstown,14,48.0,3.43
+Lisbon,21,72.0,3.43
+Rotterdam,12,41.0,3.42
+Minsk,10,34.0,3.4
+Providenciales,10,34.0,3.4
+Saint Sampson,20,68.0,3.4
+Moroni,11,37.0,3.36
+Rincon,11,37.0,3.36
+Oujda,10,33.0,3.3
+Reykjavík,22,72.0,3.27
+Agadir,27,88.0,3.26
+Oslo,34,111.0,3.26
+Paris,23,75.0,3.26
+St. George's,19,62.0,3.26
+Willemstad,31,101.0,3.26
+La Paz,12,39.0,3.25
+Wiener Neustadt,10,32.0,3.2
+Faro-Loulé,16,51.0,3.19
+Santiago de los Caballeros,21,67.0,3.19
+Vienna,27,86.0,3.19
+Serravalle,28,89.0,3.18
+Suva,11,35.0,3.18
+Belgrade,18,57.0,3.17
+Kallang,30,95.0,3.17
+Lusail,18,57.0,3.17
+Kuala Lumpur,32,101.0,3.16
+Fort Lauderdale,41,129.0,3.15
+Houston,33,104.0,3.15
+Orlando,18,56.0,3.11
+Amsterdam,22,68.0,3.09
+Bishkek,22,68.0,3.09
+Port Vila,11,34.0,3.09
+Atlanta,13,40.0,3.08
+Basseterre,28,86.0,3.07
+Riffa,27,83.0,3.07
+Phnom Penh,17,52.0,3.06
+Sofia,16,49.0,3.06
+Vientiane,16,49.0,3.06
+Prague,19,58.0,3.05
+Tbilisi,25,76.0,3.04
+Chișinău,31,94.0,3.03
+Antalya,42,127.0,3.02
+Bamako,19,57.0,3.0
+Bangkok,13,39.0,3.0
+Ebimpé,18,54.0,3.0
+George Town,18,54.0,3.0
+Hong Kong,21,63.0,3.0
+Stuttgart,10,30.0,3.0
+Tegucigalpa,10,30.0,3.0
+Panama City,25,74.0,2.96
+El Jadida,17,50.0,2.94
+Munich,14,41.0,2.93
+Bouaké,11,32.0,2.91
+Al Wakrah,27,78.0,2.89
+Hanoi,18,52.0,2.89
+Yangon,16,46.0,2.88
+Bandar Seri Begawan,13,37.0,2.85
+Vilnius,13,37.0,2.85
+Yerevan,27,77.0,2.85
+Colombo,18,51.0,2.83
+Glasgow,35,99.0,2.83
+Harrison,18,51.0,2.83
+Glendale,11,31.0,2.82
+Kansas City,15,42.0,2.8
+London,55,154.0,2.8
+Namangan,10,28.0,2.8
+Santiago de Cuba,10,28.0,2.8
+The Valley,10,28.0,2.8
+Paramaribo,19,53.0,2.79
+Podgorica,29,81.0,2.79
+Kuwait City,40,111.0,2.78
+Warsaw,26,72.0,2.77
+Pristina,32,88.0,2.75
+Rio de Janeiro,12,33.0,2.75
+Toronto,24,66.0,2.75
+Riyadh,19,52.0,2.74
+Mohammedia,15,41.0,2.73
+Seoul,15,41.0,2.73
+Baku,25,68.0,2.72
+Copenhagen,31,84.0,2.71
+Lomé,21,57.0,2.71
+Pathum Thani,14,38.0,2.71
+Amman,27,73.0,2.7
+Doha,105,283.0,2.7
+Austin,13,35.0,2.69
+Belmopan,16,43.0,2.69
+Ta' Qali,35,94.0,2.69
+Managua,24,64.0,2.67
+Santo Domingo,24,64.0,2.67
+Jakarta,20,53.0,2.65
+Tórshavn,23,61.0,2.65
+Diamniadio,14,37.0,2.64
+Dubai,67,176.0,2.63
+Basra,28,73.0,2.61
+Buenos Aires,18,47.0,2.61
+Tallinn,28,73.0,2.61
+Inglewood,15,39.0,2.6
+Radès,30,78.0,2.6
+Saint Pierre,17,44.0,2.59
+Abidjan,33,85.0,2.58
+Jeddah,31,80.0,2.58
+Stockholm,24,62.0,2.58
+Sharjah,18,46.0,2.56
+Berkane,11,28.0,2.55
+Al Rayyan,93,236.0,2.54
+Athens,19,48.0,2.53
+Bengaluru,15,38.0,2.53
+Larnaca,19,48.0,2.53
+Nairobi,15,38.0,2.53
+Arad,10,25.0,2.5
+Miami Gardens,10,25.0,2.5
+Ndola,10,25.0,2.5
+San-Pédro,12,30.0,2.5
+Budapest,48,119.0,2.48
+Skopje,29,72.0,2.48
+Luanda,17,42.0,2.47
+Rabat,38,94.0,2.47
+Dushanbe,11,27.0,2.45
+Saint Petersburg,11,27.0,2.45
+Seville,11,27.0,2.45
+Lilongwe,16,39.0,2.44
+Arlington,28,68.0,2.43
+Montevideo,21,51.0,2.43
+Santiago,21,51.0,2.43
+Santa Clara,12,29.0,2.42
+Tangier,12,29.0,2.42
+Trnava,12,29.0,2.42
+Kaunas,17,41.0,2.41
+Tehran,15,36.0,2.4
+Cairo,31,74.0,2.39
+Vaduz,23,55.0,2.39
+Bratislava,16,38.0,2.38
+Casablanca,47,112.0,2.38
+San José,24,57.0,2.38
+Zenica,26,62.0,2.38
+Mbombela,14,33.0,2.36
+Port Elizabeth,25,59.0,2.36
+Gros Islet,17,40.0,2.35
+Helsinki,25,58.0,2.32
+Al Khor,29,67.0,2.31
+Bucharest,32,74.0,2.31
+Cardiff,35,81.0,2.31
+Ljubljana,29,67.0,2.31
+Gibraltar,23,53.0,2.3
+Riga,27,62.0,2.3
+Yamoussoukro,10,23.0,2.3
+Barranquilla,18,41.0,2.28
+Marrakesh,39,89.0,2.28
+Tashkent,25,57.0,2.28
+San Pedro Sula,11,25.0,2.27
+Monrovia,19,43.0,2.26
+Francistown,17,38.0,2.24
+Quito,13,29.0,2.23
+Kigali,27,60.0,2.22
+Luxembourg,33,73.0,2.21
+Yaoundé,34,75.0,2.21
+Brasília,10,22.0,2.2
+Dhaka,15,33.0,2.2
+Franceville,16,35.0,2.19
+Douala,24,52.0,2.17
+Maputo,18,39.0,2.17
+Andorra la Vella,25,54.0,2.16
+Durban,39,84.0,2.15
+Moscow,13,28.0,2.15
+Astana,22,46.0,2.09
+Cotonou,11,23.0,2.09
+KwaMashu,11,23.0,2.09
+Malé,19,39.0,2.05
+Muscat,19,39.0,2.05
+Abu Dhabi,28,57.0,2.04
+Lima,24,49.0,2.04
+Bissau,14,28.0,2.0
+Dar es Salaam,27,54.0,2.0
+Mexico City,14,28.0,2.0
+Murcia,12,24.0,2.0
+Nicosia,10,20.0,2.0
+Dublin,33,65.0,1.97
+Asunción,18,35.0,1.94
+Kathmandu,15,29.0,1.93
+Tirana,27,52.0,1.93
+Brazzaville,12,23.0,1.92
+Kingston,23,44.0,1.91
+San Salvador,23,44.0,1.91
+Limbé,10,19.0,1.9
+Johannesburg,44,83.0,1.89
+Nouakchott,19,36.0,1.89
+Belfast,26,49.0,1.88
+Antananarivo,16,27.0,1.69
+Kinshasa,16,27.0,1.69
+Praia,12,19.0,1.58
+Benghazi,17,26.0,1.53
+Malabo,18,27.0,1.5
